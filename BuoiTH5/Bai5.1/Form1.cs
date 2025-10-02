@@ -14,6 +14,7 @@ namespace Bai5._1
     {
         public Form1()
         {
+
             InitializeComponent();
         }
 
